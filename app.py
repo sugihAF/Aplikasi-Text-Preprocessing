@@ -4,7 +4,6 @@ import numpy as np
 import nltk
 from nltk.tag import CRFTagger
 import pathlib
-from docx import Document
 import slate3k as slate
 from nltk.tokenize import word_tokenize
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
